@@ -1,0 +1,7 @@
+D:\Foxy\C#\Practice\Practice\bin\Release\Practice.exe.config
+D:\Foxy\C#\Practice\Practice\bin\Release\Practice.exe
+D:\Foxy\C#\Practice\Practice\bin\Release\Practice.pdb
+D:\Foxy\C#\Practice\Practice\obj\Release\Practice.csproj.AssemblyReference.cache
+D:\Foxy\C#\Practice\Practice\obj\Release\Practice.csproj.CoreCompileInputs.cache
+D:\Foxy\C#\Practice\Practice\obj\Release\Practice.exe
+D:\Foxy\C#\Practice\Practice\obj\Release\Practice.pdb
